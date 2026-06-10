@@ -1,0 +1,25 @@
+# Secrets — NEVER commit these
+.env
+credentials.yaml
+.streamlit/secrets.toml
+
+# Data and index — too large for git
+data/
+index/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+dist/
+build/
+
+# Streamlit
+.streamlit/cache/
+
+# OS
+.DS_Store
+Thumbs.db
