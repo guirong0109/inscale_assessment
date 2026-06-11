@@ -1,4 +1,12 @@
-# AI Governance Document Q&A
+# Version 1- RAG and LLM
+I learn from myself though the documentation and I didnt touch it before ,this is the method use langchain.
+I did not learn before, however I use AI to assist me little bit
+
+This version use a collab to done (incomplete)
+File Path : `/I_made_myself_and_with_AI`
+
+# Version 2-AI Governance Document Q&A （Generate By Claude Code)
+I use Claude AI for a vibe coding, I learn types of RAG befor prompt to help me to understand the question well
 
 A Retrieval-Augmented Generation (RAG) system for answering questions over AI governance policy documents, built with Streamlit and DeepSeek.
 
